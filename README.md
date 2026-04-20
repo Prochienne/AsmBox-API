@@ -1,4 +1,4 @@
-# AsmBox API 🚀
+# AsmBox API
 
 **AsmBox API** is a high-performance "Emulation-as-a-Service" engine built with FastAPI. It provides a stateless, sandboxed virtual CPU that executes 16-bit 8086 assembly instructions over HTTP. 
 
